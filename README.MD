@@ -6,12 +6,7 @@
 
 ## Required Libraries:
 - Numpy
-- Sklearn
-- mtcnn
 - OpenCV
-- Pandas
-- Matplotlib
-- Seaborn
 
 
 ## FOR OLIVETTI DATASET FACE RECOGNITION
