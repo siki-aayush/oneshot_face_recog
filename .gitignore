@@ -184,3 +184,6 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,vim,vscode
 .vim/
+dataset/train/*
+model.h5
+
